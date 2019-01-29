@@ -1,2 +1,2 @@
 # Code_Chef
-Here I have multiple solutions for the problems that are from https://www.codechef.com
+This repository has solutions for problems from Code Chef:  https://www.codechef.com
