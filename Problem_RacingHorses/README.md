@@ -25,10 +25,13 @@ For each test case, output a single line containing the minimum difference that 
 1 ≤ S[i] ≤ 1000000000
 
 Example:
+
 **Input:**
+
 - 1
 - 5
 - 4 9 1 32 13
 
 **Output:**
+
 - 3
