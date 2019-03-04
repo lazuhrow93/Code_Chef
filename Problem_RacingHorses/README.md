@@ -1,7 +1,7 @@
 In this folder, I have the solution for the Racing Horses problem. https://www.codechef.com/problems/HORSES
 
 
-#Racing Horses
+# Racing Horses
 
 Chef is very fond of horses. He enjoys watching them race. As expected, he has a stable full of horses. He, along with his friends, goes to his stable during the weekends to watch a few of these horses race. Chef wants his friends to enjoy the race and so he wants the race to be close. This can happen only if the horses are comparable on their skill i.e. the difference in their skills is less.
 
